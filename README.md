@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>I’m Washifur Rahman, a professional developer skilled in MERN Stack and Flutter.<br>I specialize in building scalable web and mobile applications, and I’m passionate about AI automation and intelligent agents.<br><br>💡 Always open to collaborating on innovative projects involving full-stack development or AI-driven solutions.<br>📫 Reach me on LinkedIn<br> to connect and collaborate!
+I’m Washifur Rahman, a professional developer skilled in MERN Stack and Flutter.<br>I specialize in building scalable web and mobile applications, and I’m passionate about AI automation and intelligent agents.<br><br>💡 Always open to collaborating on innovative projects involving full-stack development or AI-driven solutions.<br>📫 Reach me on LinkedIn<br> to connect and collaborate!
 
 
 ## 🌐 Socials:
